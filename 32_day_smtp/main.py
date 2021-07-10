@@ -5,7 +5,7 @@ import random
 today = datetime.now()
 today_tuple = (today.month,today.day)
 MY_EMAIL =  'arjfootball07@gmail.com'
-MY_PASSWORD = 'abc'
+MY_PASSWORD = '*******'
 
 data = pd.read_csv('birthday.csv')
 #print(today_tuple)
